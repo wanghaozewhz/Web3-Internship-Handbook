@@ -75,7 +75,13 @@ permalink: /zh/write-resume/
 
 :::
 
-## 五、量化指标参考
+## 五、针对性简历要点
+
+- **突出自学：** 强调自我驱动的学习路径，如“自学 Solidity 3 个月，独立完成并部署 2 个测试网合约”。
+- **量化成果：** 使用具体数字呈现成绩，例如“提交 20+ 个 GitHub PR，治理提案通过率 80%”。
+- **Web3 链接写法：** 规范展示 ENS、GitHub、链上交易等链接，如 `alice.eth`、<https://github.com/yourname>、`Tx:0xabc...`。
+
+## 六、量化指标参考
 
 在 Web3 简历中，量化你的贡献至关重要。以下是一些可供参考的量化维度：
 
@@ -94,7 +100,7 @@ permalink: /zh/write-resume/
 
 Web3 简历不仅仅是找工作的敲门砖，更是你个人在去中心化世界中贡献和影响力的体现。掌握这些撰写技巧，祝让你的简历在众多求职者中脱颖而出！
 
-## 六、简历模版参考
+## 七、简历模版参考
 
 推荐使用在线简历生成器（例如：<https://www.canva.com/templates/EAGO_l7bbes/>）来制作简历，方便填写同时比较简洁美观。
 
@@ -103,12 +109,23 @@ Web3 简历不仅仅是找工作的敲门砖，更是你个人在去中心化世
 **智能合约工程师：陈大文**
 
 ![智能合约工程师简历模板](../images/write-resume/smart-contract-engineer-resume-template.jpg)
+1. ENS → 顶部使用 `david.eth` 等 ENS，展示链上身份。
+2. 链上证据 → 在项目经历中附交易哈希或合约地址。
+3. GitHub → 技能栏链接到对应仓库，验证代码能力。
+
 **研究分析师：王美丽**
 
 ![研究分析师简历模板](../images/write-resume/research-analyst-resume-template.jpg)
+1. ENS → 头部展示 `meili.eth` 及邮箱，便于联系。
+2. 量化成果 → 数据分析结果配 Dune 查询或报告链接。
+3. GitHub → 研究工具或脚本附仓库地址。
+
 **社区运营师：姚大锤**
 
 ![社区运营师简历模板](../images/write-resume/community-operations-resume-template.jpg)
+1. ENS → `bigchui.eth` 等地址突出 Web3 身份。
+2. 链上证据 → 活动案例旁附 Snapshot / Galxe 任务链接。
+3. GitHub / Notion → 作品集链接展示过往活动成果。
 
 希望大家能够根据自身情况，参考以上模版，制作出一份适合自己的简历。也欢迎加入社区分享自己的简历，听取其他人的建议进行修改，增加通过的概率。
 

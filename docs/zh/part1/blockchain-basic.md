@@ -395,6 +395,17 @@ Python + RDFLib + SPARQL
 
 :::
 
+### 3. MEV（Maximal Extractable Value）
+
+MEV 指区块生产者（矿工、验证者等）通过调整区块内交易的 **排序、插入或删除** 所能提取的最大潜在收益。由于交易在进入区块前会先公开于内存池（mempool），他们可以观察这些交易并重新安排执行顺序，从而捕获额外价值。
+
+常见场景包括：
+
+- **前跑（Front-running）**：在观察到将影响价格的交易后，提前插入自己的交易抢先执行，随后再让原交易完成。
+- **清算与套利**：在 DeFi 借贷协议中，当抵押品接近清算线时，抢先发送清算交易以获得奖励，或利用价格差进行套利。
+
+为减轻 MEV 带来的负面影响，社区出现了 Flashbots 等私有交易通道以及 PBS（Proposer-Builder Separation）等方案，通过隐藏交易细节或将区块构建与提案角色分离，降低抢跑和审查的可能性，提升公平性。
+
 ## ::eos-icons:application-outlined /#32b2f0::扩展阅读
 
 [1] 《我的第一个 NFT》：[https://nft.myfirst.io/](https://nft.myfirst.io/)

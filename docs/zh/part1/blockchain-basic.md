@@ -399,6 +399,14 @@ Python + RDFLib + SPARQL
 
 [1] 《我的第一个 NFT》：[https://nft.myfirst.io/](https://nft.myfirst.io/)
 
+## 交互式学习资源
+
+- [CryptoZombies](https://cryptozombies.io/)：通过游戏化关卡编写智能合约，学习 Solidity。
+- [Sepolia 测试网](https://sepolia.etherscan.io/)：使用无成本的测试代币部署和调试合约。
+- [Etherscan 区块浏览器](https://etherscan.io/)：查询交易与区块数据，观察交易确认过程。
+- [Princeton Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)：普林斯顿大学公开课，系统讲解区块链原理。
+- [MIT Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)：麻省理工学院公开课，探索区块链的经济与应用。
+
 ## ::ep:avatar /#32b2f0::文章贡献者
 
 作者：[吃汤圆](https://x.com/web3_cty)  

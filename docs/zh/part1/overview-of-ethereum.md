@@ -225,6 +225,14 @@ The Merge 只是起点，以太坊的“进化”还在继续！接下来的升�
 - **钱包应用**：MetaMask、Coinbase Wallet、Rainbow
 - **DAO 工具**：Snapshot、Aragon、Colony
 
+#### Bored Ape Yacht Club（BAYC）：NFT 的发行与交易流程
+
+Bored Ape Yacht Club 于 2021 年 4 月在以太坊主网上发布，总量 1 万枚，每个头像 NFT 通过智能合约随机生成并在链上铸造，初始售价为 0.08 ETH。用户连接钱包并支付 ETH 即可参与铸造，所有代币在 12 小时内售罄。发行完成后，BAYC 依照 ERC-721 标准在 OpenSea 等二级市场自由交易，买卖双方需支付 Gas 费及平台手续费，持有者还可获得空投和线下活动等俱乐部权益。
+
+#### MakerDAO 等 DAO 的治理方式与影响力
+
+MakerDAO 是早期的去中心化自治组织之一，依托 MKR 代币治理机制来管理 DAI 稳定币系统。代币持有者可通过链上投票或结合 Snapshot 等工具制定抵押品种类、利率及风险参数，并由多签合约执行最终决策。MakerDAO 的治理模式启发了众多 DAO 采用代币加权投票和委托制度，其发行的 DAI 稳定币在 DeFi 生态中广泛使用，展现出 DAO 在去中心化金融基础设施中的重要影响力。
+
 ### 2. **协议层（Protocol Layer）**
 
 以太坊的核心基础设施：
